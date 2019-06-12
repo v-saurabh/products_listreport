@@ -1,0 +1,42 @@
+{
+	"fileName": "id_1560329880736_116_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"moduleName": "",
+	"reference": "com.demo.products.Component",
+	"packageName": "$TMP",
+	"content": {
+		"property": "enableAutoBinding",
+		"newValue": false
+	},
+	"selector": {
+		"id": "com.demo.products::sap.suite.ui.generic.template.ListReport.view.ListReport::ProductSet--listReport",
+		"type": "sap.ui.comp.smarttable.SmartTable",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/com.demo.products/changes/",
+	"projectId": "com.demo.products",
+	"creation": "2019-06-12T08:58:03.009Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.66.1",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "1.0.0",
+		"from": "1.0.0",
+		"to": "1.0.0"
+	},
+	"jsOnly": false,
+	"variantReference": ""
+}

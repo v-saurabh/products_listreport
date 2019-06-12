@@ -1,0 +1,36 @@
+{
+    "application": {
+        "id": "",
+        "title": "com.demo.products.Products",
+        "description": "List Report App to display ES5 Products",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#Products-Display",
+        "navigationComponentName": "com.demo.products",
+        "intentSemanticObject": "Products",
+        "intentAction": "Display",
+        "html5ApplicationName": "productslistreport",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "331351fc-549b-43f2-bf66-185c562ad8d8-1560146454462"
+        ],
+        "contentPackages": [
+            "5f44eb45-4415-4da2-a09f-42a2dd9dd0f1-1560146420573"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "DynamicTile",
+        "title": "Browse Products",
+        "subtitle": "",
+        "searchKeywords": "Browse Products,",
+        "displayIconUrl": "sap-icon://product",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "/sap/fiori/productslistreport/ES5/sap/opu/odata/iwbep/GWSAMPLE_BASIC/ProductSet/$count",
+        "refreshInterval": 10,
+        "displayNumberUnit": "Products"
+    }
+}
