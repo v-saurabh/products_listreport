@@ -149,7 +149,7 @@
 					<Collection>
 						<PropertyPath>SupplierName</PropertyPath>
 						<PropertyPath>Price</PropertyPath>
-						<PropertyPath/>
+						<PropertyPath>Category</PropertyPath>
 					</Collection>
 				</Annotation>
 			</Annotations>
